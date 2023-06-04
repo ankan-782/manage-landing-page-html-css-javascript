@@ -39,6 +39,8 @@ function handleSubmit(e) {
     emailField.value = '';
 }
 
+window.handleSubmit = handleSubmit;
+
 
 // carousel slider
 const slider = new A11YSlider(document.querySelector(".slider"), {

@@ -521,6 +521,7 @@ p[data-text-color="opacity"] {
     .primary-header-mobile-navigation-toggler {
         display: block;
         position: fixed;
+        z-index: 100;
         top: var(--size-650);
         right: var(--size-400);
         cursor: pointer;
@@ -536,6 +537,7 @@ p[data-text-color="opacity"] {
     }
 
     .primary-header-mobile-navigation-toggler[aria-expanded="true"] {
+        z-index: 100;
         background-image: url("/assets/images/icons/icon-close.svg");
     }
 }

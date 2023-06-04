@@ -875,6 +875,10 @@ p[data-text-color="opacity"] {
     background-color: var(--clr-accent-400);
 }
 
+.a11y-slider-autoplay {
+    display: none;
+}
+
 
 /* ======== cta part ======== */
 .cta {

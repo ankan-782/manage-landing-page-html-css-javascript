@@ -49,9 +49,14 @@ const slider = new A11YSlider(document.querySelector(".slider"), {
         800: {
             dots: false,
             slidesToShow: 2,
+            autoplay: true,
+            autoplaySpeed: 2000,
         },
         1200: {
             slidesToShow: 3,
+        },
+        2000: {
+            slidesToShow: 4,
         }
     },
 });

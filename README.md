@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ankan-782/manage-landing-page-html-css-javascript)
-- Live Site URL: [Add live site URL here](https://manage-landing-page-rav.netlify.app)
+- Solution URL: [github link](https://github.com/ankan-782/manage-landing-page-html-css-javascript)
+- Live Site URL: [live site link](https://manage-landing-page-rav.netlify.app)
 
 ## My process
 

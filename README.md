@@ -5,9 +5,10 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [The challenge](#the-challenge)
+  - [How to run](#how-to-run)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,6 +17,11 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 - [Author](#author)
 
 ## Overview
+
+### Links
+
+- Solution URL: [github link](https://github.com/ankan-782/manage-landing-page-html-css-javascript)
+- Live Site URL: [live site link](https://manage-landing-page-rav.netlify.app)
 
 ### The challenge
 
@@ -27,6 +33,32 @@ Users should be able to:
 - Receive an error message when the newsletter sign up `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+### How to run
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/ankan-782/manage-landing-page-html-css-javascript.git
+```
+
+- Navigate to the project directory:
+
+```bash
+cd manage-landing-page-html-css-javascript
+```
+
+- Install dependencies:
+
+```bash
+npm install
+```
+
+- run the project:
+
+```bash
+npm run dev
+```
 
 ### Screenshot
 
@@ -42,18 +74,13 @@ Users should be able to:
 
 ![screenshot 6](./assets/images/screenshots/Screen%20Shot%205.png)
 
-### Links
-
-- Solution URL: [github link](https://github.com/ankan-782/manage-landing-page-html-css-javascript)
-- Live Site URL: [live site link](https://manage-landing-page-rav.netlify.app)
-
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flex-box
 - CSS Grid
 - Position
 - Mobile-first workflow
@@ -64,7 +91,7 @@ Users should be able to:
 - First of all I have learned how to design a full web app not only for normal users but also for screen readers. Although I knew basic accessibility about every application should be designed a way that screen readers can also go through every page. But during the project, I have learned and applied more accessibility settings.
 
 - I have learned and applied more css "base styles" and "reset styles" for any kind of web application.
-Without using any css framework. Just using vanila css. One example is given below:
+Without using any css framework. Just using vanilla css. One example is given below:
 
 ```css
 ul[role='list'],

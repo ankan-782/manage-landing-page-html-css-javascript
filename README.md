@@ -30,17 +30,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshots/Screenshot%20of%20Manage-Landing-Page%201920-1080.png)
+![screenshot 1](./assets/images/screenshots/Screenshot%20of%20Manage-Landing-Page%201920-1080.png)
 
-![](./assets/images/screenshots/Screen%20Shot%201.png)
+![screenshot 2](./assets/images/screenshots/Screen%20Shot%201.png)
 
-![](./assets/images/screenshots/Screen%20Shot%202.png)
+![screenshot 3](./assets/images/screenshots/Screen%20Shot%202.png)
 
-![](./assets/images/screenshots/Screen%20Shot%203.png)
+![screenshot 4](./assets/images/screenshots/Screen%20Shot%203.png)
 
-![](./assets/images/screenshots/Screen%20Shot%204.png)
+![screenshot 5](./assets/images/screenshots/Screen%20Shot%204.png)
 
-![](./assets/images/screenshots/Screen%20Shot%205.png)
+![screenshot 6](./assets/images/screenshots/Screen%20Shot%205.png)
 
 ### Links
 
